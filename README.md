@@ -13,3 +13,5 @@ I used [this](http://www.arduino.cc/en/Tutorial/LiquidCrystal)) tutorial to conn
 To enable OSC, I used [Recotana's OSC Library](http://recotana.com/recotanablog/closet) 
 
 The part I spent most time with, was actually writing a menu code for the arduino's LCD and the buttons and potentiometers (using one potentiometer for left-right and two buttons for ok and cancel).
+
+[Movie](https://www.youtube.com/watch?v=w1y_69nvrjs) from using mixbox to calibrate [Younokio](https://github.com/one1zero1one/Younokio).
